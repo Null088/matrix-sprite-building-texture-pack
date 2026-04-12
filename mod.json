@@ -1,11 +1,16 @@
 {
-    "name":"矩形材质包-建筑V1.0.6"
+    "name":"矩形材质包-建筑"
     "author":"Neko-copper[铜]"
     "description":
 "当前版本:[beta-V1.0.7]
-[orange]之前的更新请看mod内的txt文件
-[yellow]本次更新内容：
-1. 更新了以下贴图 [热量源]
+
+GitHub网址：
+https://github.com/Null088/matrix-sprite-building-texture-pack
+
+本次更新内容：
+1. 更新了以下贴图 [热量源]、[1x1炮塔基座]、[2x2炮塔基座]、[矿渣制热机]
+2. 重制了以下贴图 [热能发电机]
+之前的更新请看mod内的txt文件
 "
     "version":"V1.0.6"
     "minGameVersion":154,
